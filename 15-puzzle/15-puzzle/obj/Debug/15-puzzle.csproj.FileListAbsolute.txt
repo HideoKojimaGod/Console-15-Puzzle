@@ -40,3 +40,9 @@ C:\Users\СК\Desktop\15-Puzzle-2-3-master\15-puzzle\15-puzzle\obj\Debug\15-puzz
 C:\Users\СК\Desktop\15-Puzzle-2-3-master\15-puzzle\15-puzzle\bin\Debug\15-puzzle.exe
 C:\Users\СК\Desktop\15-Puzzle-2-3-master\15-puzzle\15-puzzle\bin\Debug\15-puzzle.pdb
 C:\Users\СК\Desktop\15-Puzzle-2-3-master\15-puzzle\15-puzzle\obj\Debug\15-puzzle.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Console-15-Puzzle-master\15-puzzle\15-puzzle\bin\Debug\15-puzzle.exe.config
+C:\Users\student\Desktop\Console-15-Puzzle-master\15-puzzle\15-puzzle\obj\Debug\15-puzzle.exe
+C:\Users\student\Desktop\Console-15-Puzzle-master\15-puzzle\15-puzzle\obj\Debug\15-puzzle.pdb
+C:\Users\student\Desktop\Console-15-Puzzle-master\15-puzzle\15-puzzle\obj\Debug\15-puzzle.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Console-15-Puzzle-master\15-puzzle\15-puzzle\bin\Debug\15-puzzle.exe
+C:\Users\student\Desktop\Console-15-Puzzle-master\15-puzzle\15-puzzle\bin\Debug\15-puzzle.pdb

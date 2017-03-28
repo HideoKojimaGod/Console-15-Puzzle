@@ -10,7 +10,7 @@ namespace _15_puzzle
     class Puzzle : IPlayable
     {
         private int[,] frame;
-        public readonly int SizeOfFrame;
+        public int SizeOfFrame { get; protected set; }
         protected Dictionary<int, Position> positions;
         public Puzzle(params int[] numberedSquare)
         {
